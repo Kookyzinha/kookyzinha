@@ -18,5 +18,5 @@
 </div>
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/52259e13-1f2f-4ef3-8d7e-138bb8b12b35" /> Currently learning
 <div>
-    <img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/c9c82fc6-4094-4688-8034-b40a954cbd77" />
+    <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/c9c82fc6-4094-4688-8034-b40a954cbd77" />
 </div>
