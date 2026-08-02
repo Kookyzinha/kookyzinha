@@ -12,5 +12,4 @@
 
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/1491bbab-7d7f-4138-936f-74dd88c47813" /> Tools
 
-<img height=70 src=C:\Users\kooky\Downloads\book.png> Currently learning
-
+<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/52259e13-1f2f-4ef3-8d7e-138bb8b12b35" /> Currently learning
