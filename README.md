@@ -18,5 +18,5 @@
 </div>
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/52259e13-1f2f-4ef3-8d7e-138bb8b12b35" /> Currently learning
 <div>
-    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c9c82fc6-4094-4688-8034-b40a954cbd77" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/9df1bd7a-263b-44bc-b4ce-37bf8838cb00" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/1a0a6286-c814-4bdf-8e4c-d9a56162f3c0" />
+    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c9c82fc6-4094-4688-8034-b40a954cbd77" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/9df1bd7a-263b-44bc-b4ce-37bf8838cb00" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/daebd3df-521d-429d-b637-eeadb03a31b0" />
 </div>
