@@ -3,12 +3,12 @@
 <div>
   <img  align="center" height=150 weight=60 src=https://media4.giphy.com/media/oebD5alsVBFKg/source.gif>
 </div> 
-<div>
-<img height=70 src=C:\Users\kooky\Downloads\pixelsettings.png> ## My Toolbox
+
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/86e1462e-647e-4e8a-8d6d-4495936bd189" /> ## My Toolbox
 
 <img height=70 src=C:\Users\kooky\Downloads\cuteconsole.png> Technologies
 
 <img height=70 src=C:\Users\kooky\Downloads\cherrypixel.png> Tools
 
 <img height=70 src=C:\Users\kooky\Downloads\book.png> Currently learning
-</div>
+
