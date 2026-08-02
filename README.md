@@ -10,7 +10,7 @@
 
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/8ef035f8-ad6a-418e-a0fd-3cf2c21743da" /> Technologies
 
-<img height=70 src=C:\Users\kooky\Downloads\cherrypixel.png> Tools
+<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/1491bbab-7d7f-4138-936f-74dd88c47813" /> Tools
 
 <img height=70 src=C:\Users\kooky\Downloads\book.png> Currently learning
 
