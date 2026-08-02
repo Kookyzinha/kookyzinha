@@ -14,7 +14,7 @@
 
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/1491bbab-7d7f-4138-936f-74dd88c47813" /> Tools
 <div>
-    <img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/9a433245-ed45-46e7-8f30-bba065004e68" />
+    <img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/4f79830d-43b4-45a8-b164-595668de1dc5" />
 </div>
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/52259e13-1f2f-4ef3-8d7e-138bb8b12b35" /> Currently learning
 <div>
