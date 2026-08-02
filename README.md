@@ -5,7 +5,7 @@
     <img height=150 src=https://imgs.search.brave.com/oMS7w1vroxJL8ejDK2wUrNjmwvTsyCsno70Ca0UbVxs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gva2F3YWlp/LXBpbmstaGVsbG8t/a2l0dHktMWEzbGx6/b2J2MHRoeW9tZC5n/aWY.gif>
 </div> 
 
-## My Toolbox <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/86e1462e-647e-4e8a-8d6d-4495936bd189" /> 
+## My Toolbox <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/86e1462e-647e-4e8a-8d6d-4495936bd189" /> 
 
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/8ef035f8-ad6a-418e-a0fd-3cf2c21743da" /> Technologies
 <div>
