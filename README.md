@@ -15,7 +15,7 @@
 
 <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/1491bbab-7d7f-4138-936f-74dd88c47813" /> Tools
 <div>
-    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/4f79830d-43b4-45a8-b164-595668de1dc5" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/52fa9351-f515-4dd9-b90e-60ec72b888cc" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/8cf4ec26-e8cf-461a-b443-bb1f907fd7c1" />
+    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/4f79830d-43b4-45a8-b164-595668de1dc5" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/52fa9351-f515-4dd9-b90e-60ec72b888cc" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a514385c-4857-4b61-b49f-cc53d1e8187a" />
 </div>
 <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/52259e13-1f2f-4ef3-8d7e-138bb8b12b35" /> Currently learning
 <div>
